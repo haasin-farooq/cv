@@ -1,1 +1,1 @@
-# CV (HTML)
+# HTML practice
